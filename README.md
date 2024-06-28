@@ -1,4 +1,4 @@
 # Snake-Game
-Classic and addictive snake game
+Classic and addicting snake game!
 
 Pygame Project (2022)
